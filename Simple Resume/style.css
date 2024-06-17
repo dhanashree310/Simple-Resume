@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(45deg, lavender, #F8BBD0);
+    width: 850px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 190px;
+}
+
+p {
+    text-align: justify;
+}
